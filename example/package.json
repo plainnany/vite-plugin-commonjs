@@ -1,0 +1,17 @@
+{
+  "name": "viteapp",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --force",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vite": "4.4.9",
+    "vite-plugin-commonjs": "0.10.0",
+    "vite-plugin-vue2": "2.0.3",
+    "vue": "2.6.10",
+    "vue-template-compiler": "2.6.10"
+  },
+  "keywords": [],
+  "description": ""
+}
